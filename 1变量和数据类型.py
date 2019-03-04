@@ -41,5 +41,3 @@ while count < N:
 average = sum / N
 print("N = {}, sum = {}".format(N,sum))     #format函数    
 print("average = {:.2f}".format(average))   #{:.2f}保留小数点后两位
-
-
